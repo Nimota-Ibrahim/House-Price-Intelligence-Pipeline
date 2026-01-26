@@ -20,4 +20,4 @@ Model performance was evaluated primarily using **Mean Absolute Error (MAE)**. *
 * **Error Diagnosis:** Identified specific "Nightmare" outliers (indices 633, 1299, 689, 770) to understand where the model struggles and refine predictive reliability.
 
 ---
-#### To view the full code and outlier analysis, open the [house_prediction_project].ipynb file.
+##### To view the full code and outlier analysis, open the house_prediction_project.ipynb file.

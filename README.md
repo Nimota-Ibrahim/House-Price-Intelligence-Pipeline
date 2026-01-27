@@ -8,7 +8,7 @@
 ## 1. Introduction
 This project aims to predict residential property prices using a machine learning approach grounded in sound experimental practice. An **XGBoost-based pipeline** was developed, with all preprocessing steps fitted exclusively on the training data to prevent data leakage.
 
-Beyond prediction, the system integrates a decision-support layer that automatically flags properties with significant pricing anomalies. This functionality reduces manual workload, allowing analysts to focus only on the listings requiring attention.
+Beyond prediction, **the system integrates a decision-support layer** that automatically flags properties with significant pricing anomalies. This functionality reduces manual workload, allowing analysts to focus only on the listings requiring attention.
 
 ## 2. Performance Metrics
 Model performance was evaluated primarily using **Mean Absolute Error (MAE)**. **k-fold cross-validation** was used to assess the stability of model performance across different data splits.

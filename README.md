@@ -3,7 +3,8 @@
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-black?style=for-the-badge&logo=xgboost&logoColor=white)
 
-# Residential House Price Prediction
+# House Price Intelligence Pipeline
+
 
 ## 1. Introduction
 This project aims to predict residential property prices using a machine learning approach grounded in sound experimental practice. An **XGBoost-based pipeline** was developed, with all preprocessing steps fitted exclusively on the training data to prevent data leakage.

@@ -26,4 +26,4 @@ Model performance was evaluated primarily using **Mean Absolute Error (MAE)**. *
 * **Error Diagnosis:** Identified specific "Nightmare" outliers (indices 633, 1299, 689, 770) to understand where the model struggles and refine predictive reliability.
 
 ---
-##### To view the full code and outlier analysis, open the [house_prediction_project.ipynb file](https://github.com/NimotaPro/House-Price-Prediction/blob/main/house_price_prediction_project.ipynb).
+##### To view the full code, outlier analysis, and the decision-support (sanity-check) layer, open the [house_price_intelligence_pipeline.ipynb file](https://github.com/NimotaPro/House-Price-Intelligence-Pipeline/blob/main/house_price_intelligence_pipeline.ipynb).

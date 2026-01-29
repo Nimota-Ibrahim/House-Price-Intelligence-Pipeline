@@ -29,4 +29,4 @@ Model performance was evaluated primarily using **Mean Absolute Error (MAE)**. *
 Implemented a sanity-check system that flags properties as Underpriced, Overpriced, or Validated based on deviations from model predictions. This layer leverages the model’s MAPE (8.75%) to set a statistically informed threshold (±15%), ensuring only significant anomalies are reviewed manually, thereby focusing analyst attention on high-priority cases.
 
 ---
-##### To view the full code, outlier analysis, and the decision-support (sanity-check) layer, open the [house_price_intelligence_pipeline.ipynb file](https://github.com/NimotaPro/House-Price-Intelligence-Pipeline/blob/main/house_price_intelligence_pipeline.ipynb).
+##### To view the full code, outlier analysis, and the decision-support (sanity-check) layer, open the [house_price_intelligence_pipeline.ipynb file](https://github.com/Nimota-Ibrahim/House-Price-Intelligence-Pipeline/blob/main/house_price_intelligence_pipeline.ipynb).
